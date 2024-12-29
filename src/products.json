@@ -1,0 +1,81 @@
+{
+  "categories": [
+    {
+      "name": "Lighting",
+      "image": "https://assets.wfcdn.com/im/11903382/resize-h800-w800%5Ecompr-r85/1137/113797773/Averly+1+-+Light+Brushed+Nickel+Pendant.jpg"
+    },
+    {
+      "name": "Furniture",
+      "image": "https://assets.wfcdn.com/im/29801304/scale-h1326-w1764%5Ecompr-r85/2260/226036396/default_name.jpg"
+    },
+    {
+      "name": "Décor",
+      "image": "https://assets.wfcdn.com/im/73475930/scale-h336-w448%5Ecompr-r85/6223/62234576/default_name.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Savita Glass Flush Mount",
+      "color": "Black",
+      "price": "$125.00",
+      "description": "A dash of classic and contemporary style. This elegant glass flush mount features a sleek, black finish with a refined design that suits modern and traditional interiors. Perfect for adding a touch of sophistication to any room.",
+      "category": "Lighting",
+      "imageUrl": "https://assets.wfcdn.com/im/59717828/resize-h800-w800%5Ecompr-r85/2806/280625442/Savita+Glass+Flush+Mount.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Ableton 6 - Chandelier",
+      "color": "Matte Black",
+      "price": "$145.00",
+      "description": "Illuminate your space with the sleek, matte black Ableton 6 chandelier. Its six light fixtures radiate a bright and stylish glow, ideal for modern living rooms or dining areas. The simple yet elegant design fits seamlessly into both classic and contemporary settings.",
+      "category": "Lighting",
+      "imageUrl": "https://assets.wfcdn.com/im/25976300/resize-h800-w800%5Ecompr-r85/2132/213202704/Ableton+6+-+Light+Dimmable+Classic+%2F+Traditional+Chandelier.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Ozma 1 - Light Pendant",
+      "color": "Green",
+      "price": "$99.00",
+      "description": "This modern light pendant features a sleek, green finish that brings a fresh, vibrant look to any space. Perfect for kitchens or living areas, it combines stylish simplicity with functionality to brighten up your home.",
+      "category": "Lighting",
+      "imageUrl": "https://assets.wfcdn.com/im/46292441/resize-h800-w800%5Ecompr-r85/3115/311537895/Ozma+1+-+Light+Pendant.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Cyrus Velvet Accent Chair",
+      "color": "Teal",
+      "price": "$220.00",
+      "description": "Add a touch of sophistication with the Cyrus Velvet Accent Chair. Upholstered in luxurious teal velvet, this chair offers both comfort and style, making it the perfect addition to living rooms, bedrooms, or reading corners.",
+      "category": "Furniture",
+      "imageUrl": "https://m.media-amazon.com/images/I/518WPydrVmL._SL500_.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Langdon Coffee Table",
+      "color": "Oak Finish",
+      "price": "$350.00",
+      "description": "The Langdon Coffee Table combines rustic charm with modern elegance. Made from high-quality oak wood, it features a spacious top and sturdy frame, perfect for displaying decor, holding drinks, or serving as a centerpiece in your living room.",
+      "category": "Furniture",
+      "imageUrl": "https://th.bing.com/th/id/OIP.KxRXF3B_gFIkVxWMXxsr2gHaF3?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 6,
+      "name": "Luna Wall Art Set",
+      "color": "Multicolor",
+      "price": "$75.00",
+      "description": "Bring life to your walls with the Luna Wall Art Set. Featuring vibrant multicolor designs, this set adds a pop of color and character to any room, making it an ideal decorative piece for living rooms, offices, or bedrooms.",
+      "category": "Décor",
+      "imageUrl": "https://i.etsystatic.com/18663644/r/il/a3caab/3962617318/il_1588xN.3962617318_nip3.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Avery Area Rug",
+      "color": "Blue and White",
+      "price": "$120.00",
+      "description": "The Avery Area Rug is a versatile piece that brings style and comfort to any space. Its blend of blue and white colors makes it a perfect fit for modern living rooms, bedrooms, or entryways, offering a chic addition to any décor.",
+      "category": "Décor",
+      "imageUrl": "https://th.bing.com/th/id/OIP.NaeNo67GSRp6mDLHAfpIDwHaHa?rs=1&pid=ImgDetMain"
+    }
+  ]
+}
